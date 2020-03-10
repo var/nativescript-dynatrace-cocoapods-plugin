@@ -1,6 +1,6 @@
 {
   "name": "nativescript-dynatrace-cocoapods-plugin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "NativeScript Plugin wrapper for Dynatrace Cocoapod",
   "repository": {
     "url": "https://github.com/var/nativescript-dynatrace-cocoapods-plugin"
