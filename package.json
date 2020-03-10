@@ -1,0 +1,24 @@
+{
+  "name": "nativescript-dynatrace-cocoapods-plugin",
+  "version": "1.0.1",
+  "description": "NativeScript Plugin wrapper for Dynatrace Cocoapod",
+  "repository": {
+    "url": "https://github.com/var/nativescript-dynatrace-cocoapods-plugin"
+  },
+  "nativescript": {
+    "platforms": {
+      "ios": "6.0.0"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nativescript",
+    "dynatrace",
+    "cocoapods",
+    "ios"
+  ],
+  "author": "Vimal Atreya Ramaka",
+  "license": "ISC"
+}
