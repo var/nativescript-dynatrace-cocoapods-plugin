@@ -1,4 +1,4 @@
-#nativescript-dynatrace-cocoapods-plugin
+# nativescript-dynatrace-cocoapods-plugin
 
 ### Installation 
 
