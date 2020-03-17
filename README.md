@@ -13,5 +13,9 @@ Add the configuration to your `Info.plist` in the following way:
 `<key>DTXApplicationID</key>`  
 `<string>xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx</string>`
 
-`<key>DTXBeaconURL</key>`
+`<key>DTXBeaconURL</key>`  
 `<string>https://xxxxxxxxxx.bf.dynatrace.com/mbeacon</string>`
+
+### Similar Plugins
+
+NativeScript Dynatrace Gradle Plugin for Android:  https://www.npmjs.com/package/nativescript-dynatrace-gradle-plugin
